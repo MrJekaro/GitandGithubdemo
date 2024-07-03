@@ -1,2 +1,3 @@
 # GitandGithubdemo
-This my firrst git repository
+This is my first git repository
+Author- Mr Jekaro
