@@ -1,4 +1,5 @@
 # GitandGithubdemo
 This is my first git repository
 <br>
-Author- Mr Jekaro
+Author- Mr Jekaro Khan
+
